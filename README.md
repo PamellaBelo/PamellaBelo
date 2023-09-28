@@ -5,7 +5,7 @@ Me chamo Pamella, tenho 18 anos. Eu sou estudante de Análise e desenvolvimento 
 - 🎓 Estudando Java
   
 
-- 😊 pronouns: ela/dela
+
 
 ## Social Media 💻
 <div> 
