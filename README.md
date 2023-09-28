@@ -2,10 +2,16 @@
 
 Me chamo Pamella, tenho 18 anos. Eu sou estudante de Análise e desenvolvimento de sistemas.
 
-- 💻 Estudando Java
+- 🎓 Estudando Java
   
 
 - 😊 pronouns: ela/dela
+
+## Social Media 💻
+<div> 
+  
+  <a href="https://instagram.com/pamella_belo_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="(https://www.linkedin.com/in/pamella-belo-0a6945204/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 
   ##     Tools I know        ✨
 <div style="display: inline_block"><br>
@@ -16,15 +22,12 @@ Me chamo Pamella, tenho 18 anos. Eu sou estudante de Análise e desenvolvimento 
 
 ##
  
-<div> 
-  
-  <a href="https://instagram.com/pamella_belo_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="(https://www.linkedin.com/in/pamella-belo-0a6945204/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-
-
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PamellaBelo&show_icons=true&theme=transparent)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PamellaBelo&layout=compact)
+
+
+
 
 
 
