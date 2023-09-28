@@ -1,13 +1,18 @@
-## Oii, eu sou a Pamella Belo
+## Oii, seja bem vindo(a)
 
-💻 Estudando Java 
+Me chamo Pamella, tenho 18 anos. Eu sou estudante de Análise e desenvolvimento de sistemas.
 
-😊 pronouns: ela/dela
+- 💻 Estudando Java
+  
 
+- 😊 pronouns: ela/dela
+
+  ##     Tools I know        ✨
 <div style="display: inline_block"><br>
-  <img align="center" alt="PAMELLA-JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+   <img align="center" alt="PAMELLA-JAVA" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
           
 </div>
+
 
 ##
  
@@ -15,3 +20,12 @@
   
   <a href="https://instagram.com/pamella_belo_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="(https://www.linkedin.com/in/pamella-belo-0a6945204/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+
+
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PamellaBelo&show_icons=true&theme=transparent)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PamellaBelo&layout=compact)
+
+
+
+
