@@ -1,6 +1,6 @@
 ## Oii, seja bem vindo(a)
 
-Me chamo Pamella, tenho 19 anos. Eu sou estudante de Análise e desenvolvimento de sistemas.
+Me chamo Pamella, tenho 20 anos. Eu sou estudante de Análise e desenvolvimento de sistemas.
 
 - 🎓 Estudando Java
   
