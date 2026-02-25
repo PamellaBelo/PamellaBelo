@@ -1,34 +1,45 @@
-## Oii, seja bem vindo(a)
+<h1 align="center">Oie, eu sou Pamella Belo </h1>
 
-Me chamo Pamella, tenho 20 anos. Eu sou estudante de Análise e desenvolvimento de sistemas.
+<p align="center">
+  <em>Desenvolvedora Back-end • Java 17/21 • Spring Boot • APIs REST • Microsserviços • Kubernetes</em>
+</p>
 
-- 🎓 Estudando Java
-  
+<p align="center">
+  <a href="https://www.linkedin.com/in/pamellabelo/">
+    <img src="https://img.shields.io/badge/-LinkedIn-00AB33?style=flat-square&logo=Linkedin&logoColor=white">
+  </a>
+  </p>
 
+---
 
+## Sobre mim
 
-## Social Media 💻
-<div> 
-  
- 
-  <a href="https://www.linkedin.com/in/pamella-belo-0a6945204" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+Desenvolvedora Back-end com experiência em APIs REST e microsserviços utilizando **Java 17/21** e **Spring Boot**.
 
-  ##     Tools I know        ✨
-<div style="display: inline_block"><br>
-   <img align="center" alt="PAMELLA-JAVA" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-          
-</div>
+Atuo no ciclo completo do desenvolvimento, incluindo integração de sistemas, deploy em Kubernetes e práticas de CI/CD.
 
+🎯 Buscando oportunidade como Desenvolvedora Back-end ou Full Stack Júnior.
 
-##
- 
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PamellaBelo&show_icons=true&theme=transparent)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PamellaBelo&layout=compact)
+---
 
 
 
+## 🚀 Principais Stack
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" height="50" />
+</p>
 
 
+---
 
-
+<p align="center">
+  💚 Construindo soluções escaláveis, um commit de cada vez.
+</p>
